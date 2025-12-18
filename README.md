@@ -1,2 +1,2 @@
 # my-terminal-setup
-soon
+very cool terminal setup
